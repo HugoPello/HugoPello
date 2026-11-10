@@ -28,7 +28,7 @@ Estudiante de segundo año de **Desarrollo de Aplicaciones Multiplataforma (DAM)
 
 ### 📬 Contacto
 
-[LinkedIn](https://www.linkedin.com/in/hugopello) · tu.email@ejemplo.com
+[LinkedIn](https://www.linkedin.com/in/hugopello) · hugopello@gmail.com
 
 </details>
 
@@ -67,4 +67,4 @@ Second-year **Multiplatform App Development (DAM)** student at U-Tad (graduating
 
 ### 📬 Contact
 
-[LinkedIn](https://www.linkedin.com/in/hugopello) · your.email@example.com
+[LinkedIn](https://www.linkedin.com/in/hugopello) · hugopello@gmail.com
