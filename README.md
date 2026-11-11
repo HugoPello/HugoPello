@@ -44,7 +44,6 @@ Second-year **Multiplatform App Development (DAM)** student at U-Tad (graduating
 - **[Agent monitor](https://github.com/HugoPello/agent-monitor)**: live dashboard for Claude Code agents. FastAPI, hooks, WebSocket/SSE.
 - 🔜 **Final degree project: AI-powered shared expenses app** (in design phase; due June 2027). Mobile app that goes beyond Splitwise/Tricount: a vision-language model extracts structured data from receipts, friends claim items asynchronously at a "virtual table", and debts are settled as a weighted directed graph to minimise transfers. Flutter, FastAPI, PostgreSQL, Gemini Vision (Structured Outputs), Docker. Requirements, functional analysis and UI designs are done; development starting soon.
 - 🔜 **Workout tracker**: native Android app with Kotlin, Jetpack Compose, Room and MVVM.
-- 🔜 **Agent monitor**: live dashboard for Claude Code agents. FastAPI, hooks, WebSocket/SSE.
 
 ---
 
