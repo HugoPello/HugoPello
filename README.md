@@ -20,11 +20,11 @@ Estudiante de segundo año de **Desarrollo de Aplicaciones Multiplataforma (DAM)
 
 ### 🛠️ Stack
 
-- **Lenguajes:** Python, Java, Kotlin, Dart, SQL, JavaScript
+- **Lenguajes:** Python, Java, Kotlin, SQL, JavaScript
 - **Backend:** FastAPI, APIs REST, Pydantic
 - **Móvil:** Flutter, Android (Jetpack Compose)
-- **Datos:** PostgreSQL, MariaDB, SQLite, MongoDB, ChromaDB
-- **Herramientas y nube:** Git, Docker, GitHub Actions, Linux (WSL), AWS
+- **Datos:** PostgreSQL, MariaDB, SQLite
+- **Herramientas y nube:** Git, Docker, GitHub Actions, AWS
 
 ### 📬 Contacto
 
@@ -57,11 +57,11 @@ Second-year **Multiplatform App Development (DAM)** student at U-Tad (graduating
 
 ### 🛠️ Tech stack
 
-- **Languages:** Python, Java, Kotlin, Dart, SQL, JavaScript
+- **Languages:** Python, Java, Kotlin, SQL, JavaScript
 - **Backend:** FastAPI, REST APIs, Pydantic
 - **Mobile:** Flutter, Android (Jetpack Compose)
-- **Data:** PostgreSQL, MariaDB, SQLite, MongoDB, ChromaDB
-- **Tooling & cloud:** Git, Docker, GitHub Actions, Linux (WSL), AWS
+- **Data:** PostgreSQL, MariaDB, SQLite
+- **Tooling & cloud:** Git, Docker, GitHub Actions, AWS
 
 ---
 
