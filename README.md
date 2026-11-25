@@ -17,7 +17,7 @@ Estudiante de segundo año de **Desarrollo de Aplicaciones Multiplataforma (DAM)
 
 - **Construyendo:** proyectos pequeños y cuidados de portfolio sobre LLMs, agentes y móvil, además de mi trabajo de fin de ciclo.
 - **Aprendiendo:** bucles de agentes (LLM + herramientas), RAG, salidas estructuradas de LLMs, diseño de APIs.
-- **Buscando:** prácticas / puestos junior de desarrollo de software con integración de IA.
+- **Buscando:** prácticas / puestos junior de desarrollo de software.
 
 ### 🛠️ Stack
 
@@ -54,7 +54,7 @@ Second-year **Multiplatform App Development (DAM)** student at U-Tad (graduating
 
 - **Building:** small, polished portfolio projects around LLMs, agents and mobile, plus my final degree project.
 - **Learning:** agent loops (LLM + tools), RAG, structured LLM outputs, API design.
-- **Looking for:** internship / junior roles in software development with AI integration.
+- **Looking for:** internship / junior roles in software development.
 
 ---
 
