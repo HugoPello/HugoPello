@@ -48,10 +48,11 @@ available:     February 2027
     </td>
     <td width="50%" valign="top">
       <h3>🛰️ <a href="https://github.com/HugoPello/agent-monitor">agent-monitor</a></h3>
-      <p><b>Live dashboard for Claude Code agents.</b> Shows what each session is doing, parallel subagents, failures, and when an agent is waiting for you.</p>
+      <p><b>Live dashboard for AI agents across platforms.</b> Works with Claude Code, T3 Code, Gemini/Antigravity, OpenCode and more. Shows what each session is doing, parallel subagents, failures, and when an agent is waiting for you.</p>
       <p>
         <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
         <img src="https://img.shields.io/badge/Claude%20Code-hooks-D97757?style=flat-square&logo=anthropic&logoColor=white" />
+        <img src="https://img.shields.io/badge/Gemini-Antigravity-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" />
         <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" />
         <img src="https://img.shields.io/badge/SSE-live-555?style=flat-square" />
         <img src="https://img.shields.io/badge/Vanilla-HTML%2FJS-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
@@ -149,7 +150,7 @@ Me gusta construir proyectos que funcionen **de principio a fin**: backend, app,
 | Proyecto | Qué hace | Stack |
 |---|---|---|
 | 📚 **[notes-rag](https://github.com/HugoPello/notes-rag)** | Chatea con tus apuntes: responde solo con tus PDFs, cita documento y página, y dice "no lo sé" cuando los apuntes no cubren la pregunta. | Python, FastAPI, ChromaDB, Gemini, Docker, GitHub Actions |
-| 🛰️ **[agent-monitor](https://github.com/HugoPello/agent-monitor)** | Panel en vivo para agentes de Claude Code: qué hace cada sesión, subagentes en paralelo, fallos y cuándo te espera. | FastAPI, hooks de Claude Code, SQLite, SSE, HTML/JS sin frameworks, Docker |
+| 🛰️ **[agent-monitor](https://github.com/HugoPello/agent-monitor)** | Panel en vivo para agentes de IA de varias plataformas (Claude Code, T3 Code, Gemini/Antigravity, OpenCode y más): qué hace cada sesión, subagentes en paralelo, fallos y cuándo te espera. | FastAPI, hooks de agentes, SQLite, SSE, HTML/JS sin frameworks, Docker |
 | ⏰ **[smart-clock](https://github.com/HugoPello/smart-clock)** | Despertador Android que consulta el tráfico antes de sonar y adelanta o retrasa la alarma según el trayecto real, con límites; sin red mantiene la hora original. | Kotlin, Jetpack Compose, Room, WorkManager, AlarmManager, MVVM, TomTom |
 | 🧾 **App de gastos compartidos con IA** <br><sub>TFC · en curso</sub> | Un modelo de visión-lenguaje extrae los datos del ticket, los amigos reclaman sus platos en una "mesa virtual" y las deudas se liquidan como un grafo para minimizar transferencias. Entrega en junio de 2027. | Flutter, FastAPI, PostgreSQL, Gemini Vision, Docker |
 | 🏋️ **[KRAFT](https://github.com/HugoPello/kraft)** <br><sub>proyecto en equipo · 1.º DAM</sub> | App de escritorio que convierte el deporte y los hábitos saludables en un RPG: entrenos reales para subir de nivel, misiones, clanes, rankings y tienda de cosméticos. Login con 2FA por email, roles y panel de administración. MVC estricto con 19 ventanas, hecho por un equipo de cinco. | Java 21, Swing, JDBC, MySQL, Jakarta Mail, Maven |
