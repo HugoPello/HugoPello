@@ -30,7 +30,7 @@ Estudiante de segundo año de **Desarrollo de Aplicaciones Multiplataforma (DAM)
 
 ### 📬 Contacto
 
-[LinkedIn](https://www.linkedin.com/in/hugopello) · hugopello@gmail.com
+[LinkedIn](https://www.linkedin.com/in/hugopello) · hugopello@gmail.com · [Webpage](https://hugopello.github.io/)
 
 </details>
 
@@ -71,4 +71,4 @@ Second-year **Multiplatform App Development (DAM)** student at U-Tad (graduating
 
 ### 📬 Contact
 
-[LinkedIn](https://www.linkedin.com/in/hugopello) · hugopello@gmail.com
+[LinkedIn](https://www.linkedin.com/in/hugopello) · hugopello@gmail.com · [Webpage](https://hugopello.github.io/en/)
